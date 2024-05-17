@@ -22,6 +22,6 @@
     "sequelize-auto": "^0.8.8",
     "sequelize-cli": "^6.6.2",
     "sqlite": "^5.1.1",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^5.1.2"
   }
 }
